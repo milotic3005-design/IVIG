@@ -1,0 +1,6 @@
+{
+  "name": "IVIG Infusion Rate Calculator",
+  "description": "A tool to calculate the infusion dose and rate protocol for Gammagard Liquid 10%, based on patient weight and total dose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
